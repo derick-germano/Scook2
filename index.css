@@ -144,7 +144,7 @@ div p{
 @media (max-width: 500px) {
     nav{
         display: flow-root;
-        margin-top: 15vh;
+        margin-top: 40%;
         height: 0;
     }
 
@@ -154,9 +154,9 @@ div p{
     }
 
     img{
-        width: 150px;
-        height: 50px;
-        margin-top: 40px;
+        width: 200px;
+        height: 76px;
+        margin-top: 50px;
     }
     
     p{
